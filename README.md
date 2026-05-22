@@ -24,7 +24,7 @@ This is a description of creating ring, which is made of photopolymer resin.
 
 ## 4. Результат
 
-
+Данное кольцо незамкнуто, благодаря такой форме оно регулируется под реальный обхват пальца.
 
 <img width="621" height="465" alt="image" src="https://github.com/user-attachments/assets/069bc562-e306-40eb-b5f7-812df295609c" />
 
